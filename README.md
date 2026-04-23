@@ -2,6 +2,9 @@
 
 A desktop-based To-Do List application built using Python and PyQt5, designed with a modern neon-inspired user interface. This project focuses on simplicity, usability, and a visually appealing design for everyday task management. This app also utilises keyboard shortcuts.
 
+## 🎬 Demo
+![App Demo](screenshots/new_gif.gif)
+
 ## ✨ Features
 ➕ Create new to-do lists
 📂 Open existing saved lists
@@ -16,7 +19,6 @@ A desktop-based To-Do List application built using Python and PyQt5, designed wi
 2. Ctrl + O → Open List
 3. Ctrl + S → Save List
 4. Ctrl + X → Delete List
-
    
 ## Screenshots
 ### Main Interface
