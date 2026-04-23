@@ -41,12 +41,14 @@ PyQt5 🎨
 
 ## 🚀 Getting Started
 1. Clone the repository
-git clone https://github.com/your-username/quick-notes.git
-cd quick-notes
+git clone https://github.com/hamna-mahmood/Quick-Notes-App.git
+
+2. cd Quick-Notes-App
 
 3. Install dependencies
 pip install PyQt5
-4. Run the application
+
+5. Run the application
 python main.py
 
 
@@ -67,5 +69,5 @@ This project was created to improve my skills in:
 ## 👨‍💻 Author
 Built by Hamna Mahmood
 Feel free to connect and give feedback!
-Email: hamnamahmood004@gmail.com
-Linkedin: www.linkedin.com/in/hamnamahmood
+- Email: hamnamahmood004@gmail.com
+- Linkedin: www.linkedin.com/in/hamnamahmood
