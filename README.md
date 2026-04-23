@@ -12,18 +12,24 @@ A desktop-based To-Do List application built using Python and PyQt5, designed wi
 📊 Real-time status updates for user actions
 
 ## 🎯 Keyboard Shortcuts
-Ctrl + N → Create New List
-Ctrl + O → Open List
-Ctrl + S → Save List
-Ctrl + X → Delete List
-🖼️ UI Preview
+1. Ctrl + N → Create New List
+2. Ctrl + O → Open List
+3. Ctrl + S → Save List
+4. Ctrl + X → Delete List
 
+   
 ## Screenshots
+### Main Interface
+![Main UI](screenshots/UI_img.PNG)
 
-/screenshots/UI_img.PNG
-/screenshots/Save_List.PNG
-/screenshots/New_List.PNG
-/screenshots/Delete_List.PNG
+### Save List
+![Save List](screenshots/Save_List.PNG)
+
+### New List
+![New List](screenshots/New_List.PNG)
+
+### Delete List
+![Delete List](screenshots/Delete_List.PNG)
 
 ## 🛠️ Tech Stack
 Python 🐍
