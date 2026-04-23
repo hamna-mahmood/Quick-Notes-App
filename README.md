@@ -1,8 +1,8 @@
-📝 Quick Notes – To-Do List App
+# 📝 Quick Notes – To-Do List App
 
 A desktop-based To-Do List application built using Python and PyQt5, designed with a modern neon-inspired user interface. This project focuses on simplicity, usability, and a visually appealing design for everyday task management. This app also utilises keyboard shortcuts.
 
-✨ Features
+# ✨ Features
 ➕ Create new to-do lists
 📂 Open existing saved lists
 💾 Save your progress to a file
