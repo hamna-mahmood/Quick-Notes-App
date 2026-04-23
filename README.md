@@ -20,16 +20,16 @@ A desktop-based To-Do List application built using Python and PyQt5, designed wi
    
 ## Screenshots
 ### Main Interface
-![Main UI](screenshots/UI_img.PNG)
+![Main UI](screenshots/1.UI_img.PNG)
 
 ### Save List
-![Save List](screenshots/Save_List.PNG)
+![Save List](screenshots/2.Save_List.PNG)
 
 ### New List
-![New List](screenshots/New_List.PNG)
+![New List](screenshots/3.New_List.PNG)
 
 ### Delete List
-![Delete List](screenshots/Delete_List.PNG)
+![Delete List](screenshots/4.Delete_List.PNG)
 
 ## 🛠️ Tech Stack
 Python 🐍
