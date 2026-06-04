@@ -5,16 +5,16 @@ A desktop-based To-Do List application built using Python and PyQt5, designed wi
 ## 🎬 Demo
 ![App Demo](screenshots/new_gif.gif)
 
-## ✨ Features
+## Features
 ➕ Create new to-do lists
-📂 Open existing saved lists
-💾 Save your progress to a file
-🗑️ Delete lists easily
-⌨️ Keyboard shortcuts for faster workflow
-🎨 Neon-themed custom UI design
-📊 Real-time status updates for user actions
+- Open existing saved lists
+- Save your progress to a file
+- Delete lists easily
+- Keyboard shortcuts for faster workflow
+- Neon-themed custom UI design
+- Real-time status updates for user actions
 
-## 🎯 Keyboard Shortcuts
+## Keyboard Shortcuts
 1. Ctrl + N → Create New List
 2. Ctrl + O → Open List
 3. Ctrl + S → Save List
@@ -34,12 +34,12 @@ A desktop-based To-Do List application built using Python and PyQt5, designed wi
 ![Delete List](screenshots/4.Delete_List.PNG)
 
 ## 🛠️ Tech Stack
-Python 🐍
-PyQt5 🎨
+- Python 
+- PyQt5 
 
 ## Qt Designer (UI Framework concepts)
 
-## 🚀 Getting Started
+## Getting Started
 1. Clone the repository
 git clone https://github.com/hamna-mahmood/Quick-Notes-App.git
 
@@ -52,7 +52,7 @@ pip install PyQt5
 python main.py
 
 
-## 💡 Purpose of the Project
+## Purpose of the Project
 This project was created to improve my skills in:
 1. GUI application development using PyQt5
 2. Event handling and file management in Python
@@ -60,13 +60,13 @@ This project was created to improve my skills in:
 4. Building real-world desktop applications
 
 
-## 📌 Future Improvements
+## Future Improvements
 1. Task categories / priorities
 2. Dark/light theme toggle
 3. Drag & drop task organization
 
 
-## 👨‍💻 Author
+## Author
 Built by Hamna Mahmood
 Feel free to connect and give feedback!
 - Email: hamnamahmood004@gmail.com
